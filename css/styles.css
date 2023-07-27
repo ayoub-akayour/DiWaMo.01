@@ -3246,6 +3246,7 @@ input::-moz-focus-inner {
   display: inline-block;
   padding-left: 0;
   margin: 0 1rem;
+  font-size: large;
 }
 
 /* ------------------------------------------------------------------- 
@@ -4770,8 +4771,6 @@ html.no-csstransitions .s-hero__content {
   font-weight: 500;
   letter-spacing: -0.01em;
   line-height: 1;
-  
-
 }
 
 .s-contact__email a {
