@@ -727,6 +727,9 @@ a {
 
 a img {
   border: none;
+  position: relative;
+  left: 50px;
+  top: 5px;
 }
 
 /* ------------------------------------------------------------------- 
@@ -5017,4 +5020,23 @@ html.no-csstransitions .s-hero__content {
   .ss-copyright {
     font-size: 1.4rem;
   }
+}
+
+
+
+
+
+
+
+
+
+/* added css*/
+.d-letter span {
+  margin: 0;
+  padding: 0;
+}
+
+.iwamo-diwamo {
+  margin: 0;
+  padding:0;
 }
